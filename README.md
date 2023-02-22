@@ -3,7 +3,7 @@ Paradigma - Avaliação Técnica
 
 As tarefas 1 e 3 foram desnvolvidas usando o paradgimas de orientação a objetos, em projetos do tipo console .Net 3.1
 ## Tarefa 1
-[Diretório da Tarefa 1](http://handlebarsjs.com/), 
+[Diretório da Tarefa 1](https://github.com/JhonPreuss/paradigma-dev-test/tree/main/ParadigmaTarefa1), 
 ## Tarefa 2
 |SQL1                          |SQL2                         |
 |-------------------------------|-----------------------------|
