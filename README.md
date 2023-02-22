@@ -14,4 +14,4 @@ SELECT COUNT(Codigo) as TotalFinal FROM Pedido WHERE CodigoComprador <> 123
 **TotalFinal = 75**
 
 ## Tarefa 3
-[Diretório da Tarefa 3](http://handlebarsjs.com/), 
+[Diretório da Tarefa 3](https://github.com/JhonPreuss/paradigma-dev-test/tree/main/ParadigmaTarefa3), 
